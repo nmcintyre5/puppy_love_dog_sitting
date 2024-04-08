@@ -4,7 +4,7 @@ Welcome to Puppy Love Dog Sitting, where your furry friends receive top-notch ca
 
 ## Description
 
-Puppy Love Dog Sitting is a static webpage built using HTML and CSS and designed to provide information about our dog sitting services. It includes details about our services, amenities, safety measures, client reviews, and frequently asked questions.
+Puppy Love Dog Sitting is a static webpage built using HTML and CSS and designed to provide information about our dog sitting services. It includes details about our services, amenities, safety measures, client reviews, and frequently asked questions. It may be found here: [Puppy Love Dog Sitting](https://nmcintyre5.github.io/puppy_love_dog_sitting/).
 
 ## Features
 
@@ -14,7 +14,7 @@ Puppy Love Dog Sitting is a static webpage built using HTML and CSS and designed
 
 ## Usage
 
-To view the webpage locally, simply open the `index.html` file in your web browser.
+To view the webpage locally, simply open the `index.html` file in your web browser. Alternatively, visit [Puppy Love Dog Sitting](https://nmcintyre5.github.io/puppy_love_dog_sitting/).
 
 ## Credits
 The image used on the website is credited to the photographer "Fatty Corgi" and sourced from Unsplash.
