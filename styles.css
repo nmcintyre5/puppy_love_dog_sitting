@@ -1,0 +1,87 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F7DED0; /* Background color: Light Salmon */
+    color: #333; /* Dark gray */
+  }
+  header {
+    background-color: #FFBE98; /* Primary color: Light Peach */
+    font-family: 'Roboto', sans-serif; 
+    padding: 20px 0;
+    text-align: center;
+  }
+ 
+ img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px; /* Adjust margin as needed */
+  }
+  
+  .description-text {
+    display: block;
+    clear: both;
+  }
+
+  h1 {
+    color: #333; /* Dark gray */
+  }
+  h2 {
+    text-decoration: underline; /* Underline for h3 elements */
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .description {
+    margin-bottom: 20px;
+  }
+  .contact {
+    margin-top: 20px;
+  }
+  .contact a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  .images {
+    margin-top: 20px;
+  }
+  .images img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  .reviews {
+    margin-top: 40px;
+  }
+  .review {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .review p {
+    margin: 0;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li:not(:last-child) {
+    margin-right: 5px; /* Adjust as needed */
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
